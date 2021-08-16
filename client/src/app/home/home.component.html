@@ -1,0 +1,18 @@
+<div class="container mt-5">
+    <div *ngIf="!registerMode" style='text-align: center;'>
+        <h1>SOSurf</h1>
+        <p class="lead"> Wath is this? </p>
+        <div class="text-center">
+            <button (click)="registerToggle()" class="btn btn-primary btn-lg mr2">Register</button>
+            <button class="btn btn-info btn-lg ml-2">Learn more</button>
+        </div>
+    </div>
+
+    <div *ngIf="registerMode" class="container">
+        <div class="row justify-content-center">
+            <div class="col-4">
+                <p>Register Form goes Here</p>
+            </div>
+        </div>
+    </div>
+</div>
