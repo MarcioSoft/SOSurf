@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PROyvKPFmt5MC9E3IG3qnltQLszL6/E/Qr/2G4bvqZwymWKjjJDilI3lXb66Gryb7dGWct9JNHUjzlAChY4y3g==",
+  "dgSpecHash": "qyel0veWj7a0CtJ4rL22e4clxbmffxhlPPvchcu/fQvU8v1iO6+j034ZxuzIxDP+OCpwZRyrUTrZzw+CBCVzpg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\SOSurf\\API\\API.csproj",
+  "projectFilePath": "C:\\Projetos\\SOSurf\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6100950\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\6100950\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
