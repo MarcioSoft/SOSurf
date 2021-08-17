@@ -1,7 +1,7 @@
 <div class="container mt-5">
     <div *ngIf="!registerMode" style='text-align: center;'>
-        <h1>SOSurf</h1>
-        <p class="lead"> Wath is this? </p>
+        <h1>Questions & Solutions</h1>
+        <p class="lead"> Create your account and get access to the Questions & Solutions </p>
         <div class="text-center">
             <button (click)="registerToggle()" class="btn btn-primary btn-lg mr2">Register</button>
             <button class="btn btn-info btn-lg ml-2">Learn more</button>
@@ -11,7 +11,7 @@
     <div *ngIf="registerMode" class="container">
         <div class="row justify-content-center">
             <div class="col-4">
-                <p>Register Form goes Here</p>
+                <app-register (cancelRegister)="cancelRegisterMode($event)" ></app-register>
             </div>
         </div>
     </div>
