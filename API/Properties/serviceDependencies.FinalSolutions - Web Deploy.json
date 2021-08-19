@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/slackserver/databases/SlackDataBase",
+      "type": "mssql.azure",
+      "connectionId": "Server=tcp:slackserver.database.windows.net,1433;InitialCatalog=SlackDataBase;PersistSecurityInfo=False;UserID=MarcioSoft;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;ConnectionTimeout=30;",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Server=tcp:slackserver.database.windows.net,1433;InitialCatalog=SlackDataBase;PersistSecurityInfo=False;UserID=MarcioSoft;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;ConnectionTimeout=30;"
+    }
+  }
+}
