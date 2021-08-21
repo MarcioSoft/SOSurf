@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jht65SkYb3ZehZbN5nRq+GBSQUjOXen/8ARPixtItQ48mc2/uKMV0pnMoOy0/FOpBU94SJnQbfvbsQzIHWmJtQ==",
+  "dgSpecHash": "d7FskpwlAp/JLdFBh7WQHWPaD7voC56tJCpz29VjqIkE6clT3wCFEFSR1Rq/vaVATs832dtCvfAU061NWDtfQQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\SOSurf\\API\\API.csproj",
+  "projectFilePath": "C:\\Projetos\\SOSurf\\QuestionsAndSolutions\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6100950\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\6100950\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.9\\microsoft.aspnetcore.authentication.jwtbearer.5.0.9.nupkg.sha512",
