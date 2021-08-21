@@ -45,10 +45,6 @@
               "target": "Package",
               "version": "[5.0.9, )"
             },
-            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
-              "target": "Package",
-              "version": "[5.0.7, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -62,14 +58,6 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.9, )"
-            },
-            "Microsoft.Identity.Web": {
-              "target": "Package",
-              "version": "[1.1.0, )"
-            },
-            "Microsoft.Identity.Web.UI": {
-              "target": "Package",
-              "version": "[1.1.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
