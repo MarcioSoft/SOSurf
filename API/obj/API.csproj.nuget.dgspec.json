@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\SOSurf\\api\\API.csproj": {}
+    "C:\\Projetos\\SOSurf\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\SOSurf\\api\\API.csproj": {
+    "C:\\Projetos\\SOSurf\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\SOSurf\\api\\API.csproj",
+        "projectUniqueName": "C:\\Projetos\\SOSurf\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Projetos\\SOSurf\\api\\API.csproj",
+        "projectPath": "C:\\Projetos\\SOSurf\\API\\API.csproj",
         "packagesPath": "C:\\Users\\6100950\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\SOSurf\\api\\obj\\",
+        "outputPath": "C:\\Projetos\\SOSurf\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6100950\\AppData\\Roaming\\NuGet\\NuGet.Config",
